@@ -1,0 +1,10 @@
+name = "weather-service"
+type = "javascript"
+
+account_id = "your_account_id"
+workers_dev = true
+compatibility_date = "2023-10-01"
+
+[[routings]]
+pattern = "*/weather"
+service = "weather-service"

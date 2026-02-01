@@ -1,0 +1,29 @@
+{
+  "weather": [
+    {
+      "Temperature": "22°C",
+      "Condition": "Sunny",
+      "Location": "New York"
+    },
+    {
+      "Temperature": "18°C",
+      "Condition": "Cloudy",
+      "Location": "San Francisco"
+    },
+    {
+      "Temperature": "30°C",
+      "Condition": "Hot",
+      "Location": "Los Angeles"
+    },
+    {
+      "Temperature": "15°C",
+      "Condition": "Rainy",
+      "Location": "Seattle"
+    },
+    {
+      "Temperature": "10°C",
+      "Condition": "Snowy",
+      "Location": "Chicago"
+    }
+  ]
+}
