@@ -1,4 +1,4 @@
-# Weather Service for Cloudflare Workers
+# Weather Service
 
 This project implements a simple weather service using static JSON data. It is designed to be deployed on Cloudflare Workers.
 
@@ -49,6 +49,8 @@ weather-service
 ```
 go run cmd/worker/main.go
 ```
+
+and check `http://localhost:8080/weather`
 
 ## Usage
 
